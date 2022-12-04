@@ -32,4 +32,6 @@ const BottomNav = () => {
             </Stack>
         </Box>
     );
-};
+}
+
+export default BottomNav;
